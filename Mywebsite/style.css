@@ -1,0 +1,10 @@
+body {
+    font-family: sans-serif;
+    max-width: 40rem
+    margin-left: auto;
+    margin_right: auto;
+}
+
+.custom-background {
+    background-image: url('img/graident.png');
+    ]
